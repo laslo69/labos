@@ -2,7 +2,9 @@
 
 ## Sujet du lab
 
-Dans ce lab, le 
+Mise en place d'un domaine active directory, pour que plus tard la continuité du lab puisse me permettre d'homogénéiser une infrastructure possédant plusieurs serveurs, services, centraliser les groupes et les utilisateurs, gérer des permissions.
+
+## Processus de mise en place de la solution
 
 Le premier serveur qui servira de contrôleur de domaine est configuré:
 
@@ -37,6 +39,6 @@ Lors de la fin de l'installation, un reboot est nécessaire
 
 ![reboot](./crea_ad_7.JPG)
 
-Une fois redémarrer, ont peux se connecter en tant que administrateur du domaine
+Une fois redémarrer, ont peut se connecter en tant que administrateur du domaine
 
-![](./crea_ad_8.JPG)
+![connexion](./crea_ad_8.JPG)
