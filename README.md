@@ -4,8 +4,6 @@ Bienvenue sur ce dépôt GitHub regroupant mes différents **labs techniques** a
 
 Au fil du temps, d’autres thématiques pourront être ajoutées en fonction de mes apprentissages et expérimentations.
 
-***
-
 ## 🎯 Objectif
 
 Ce dépôt a pour vocation de centraliser des **labs pratiques**, conçus pour :
@@ -20,8 +18,6 @@ Chaque lab est organisé dans un dossier dédié et comprend :
 - Des étapes de mise en œuvre documentées
 - Des points de vigilance ou limites rencontrées
 
-***
-
 ## 🧰 Domaines abordés
 
 Voici les domaines actuellement couverts dans ce dépôt :
@@ -29,13 +25,9 @@ Voici les domaines actuellement couverts dans ce dépôt :
 - 🖥️ **Systèmes** : Linux, Windows Server, PowerShell, Bash...
 - 🌐 **Réseaux** : routage, pare-feux, VPN, outils d’analyse réseau...
 
-***
-
 ## 📣 Vos retours sont les bienvenus
 
 N’hésitez pas à me faire part de vos **retours**, **remarques** ou **suggestions d’amélioration**.  
 Cela m’aidera à faire évoluer le contenu et à corriger d’éventuelles erreurs.
-
-***
 
 Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
