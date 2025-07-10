@@ -2,7 +2,7 @@
 
 ## Sujet du lab
 
-Mise en place d'un domaine active directory, pour que plus tard la continuité du lab puisse me permettre d'homogénéiser une infrastructure possédant plusieurs serveurs, services, centraliser les groupes et les utilisateurs, gérer des permissions.
+Mise en place d'un domaine active directory, joindre des machines dans le domaine active directory et ajouter dans le futur des services.
 
 ## Processus de mise en place de la solution
 
@@ -19,15 +19,15 @@ S'ensuit l'installation du rôle ADDS
 
 ![installation ADDS](./crea_ad_2.JPG)
 
-Comme je ne possède ni domaine existant, ni forêt existante, je crée une nouvelle forêt que je nomme `lab.local`
+Comme je ne possède ni domaine existant, ni forêt existante, je crée une nouvelle forêt et un nouveau domaine que je vais nommer `lab.local`
 
 ![nommage de la forêt](./crea_ad_3.JPG)
 
-Définition du mot de passe DSRM
+Définition d'un mot de passe DSRM
 
 ![definition mdp DSRM](./crea_ad_4.JPG)
 
-Je choisis de ne pas créer de délégation DNS pour pouvoir la gérer manuellement plus tard
+J'ai choisis de ne pas créer de délégation DNS pour pouvoir la gérer manuellement au fil du temps
 
 ![creation deleguation DNS](./crea_ad_5.JPG)
 
@@ -39,6 +39,6 @@ Lors de la fin de l'installation, un reboot est nécessaire
 
 ![reboot](./crea_ad_7.JPG)
 
-Une fois redémarrer, ont peut se connecter en tant que administrateur du domaine
+Une fois redémarrer, on peut se connecter en tant que administrateur du domaine
 
 ![connexion](./crea_ad_8.JPG)
