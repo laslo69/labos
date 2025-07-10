@@ -1,10 +1,25 @@
-# Creation d'un domaine active directory
+# 🖧 Lab personnel - Administration Système & Réseau
 
-## Sujet du lab
+Bienvenue sur mon lab personnel dédié à l’administration système et réseau. Ce projet me permet d’explorer, tester et documenter différents services et configurations en environnement virtualisé.
+
+## 📌 Objectifs du lab
 
 Mise en place d'un domaine active directory
 
-## Etapes de mise en place de la solution
+## 🛠️ Environnement technique
+
+- **OS** : windows Server 2022
+- **Hyperviseur** : Proxmox
+- **Outils** : Aucun
+- **Topologie réseau** : Aucun
+
+## 🗂️ Module détaillés
+
+|📁 Module|Description|
+|:-:|:-:|
+|ADDS|Gestion centralisée des identités et ressources.|
+
+## 📸 Etapes mise en place de la solution
 
 Le premier serveur qui servira de contrôleur de domaine est configuré:
 
@@ -42,3 +57,5 @@ Lors de la fin de l'installation, un reboot est nécessaire
 Une fois redémarrer, on peut se connecter en tant que administrateur du domaine
 
 ![connexion](./Illustration/crea_ad_8.JPG)
+
+## 🧠 Ce que j’ai appris
