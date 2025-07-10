@@ -59,3 +59,7 @@ Une fois redémarrer, on peut se connecter en tant que administrateur du domaine
 ![connexion](./Illustration/crea_ad_8.JPG)
 
 ## 🧠 Ce que j’ai appris
+
+## Feedback
+
+Un avis, une question ou une remarque ? Laissez un commentaire !

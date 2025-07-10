@@ -24,3 +24,7 @@ Dans mon unité d'organisation utilisateurs, je vais créer quelques utilisateur
 On retrouve nos utilisateurs créer
 
 ![creation user](./Illustration/crea_user_2.JPG)
+
+## Feedback
+
+Un avis, une question ou une remarque ? Laissez un commentaire !
