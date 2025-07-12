@@ -13,7 +13,9 @@ Mise en place d'un domaine active directory
 
 |📁 Module|Description|
 |:-:|:-|
-|ADDS|Création d'un domaine active directory|
+|Installation|Installation de rôle ADDS|
+|Création|Création d'une fôret et d'un domaine active directory|
+|Connexion|Connexion en tant que administrateur du domaine|
 
 ## 📸 Etapes mise en place de la solution
 

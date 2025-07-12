@@ -14,7 +14,9 @@
 
 |📁 Module|Détail|
 |:-:|:-:|
-|ADDS|Utilisateurs et ordinateurs Active Directory|
+|Unitée d'organisation|Création d'unitées d'organisation|
+|Groupes et utilisateurs|Création d'utilisateurs et groupes|
+|Contrôle|Vérification de la création des ressources|
 
 ## 📸 Etapes mise en place de la solution
 

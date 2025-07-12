@@ -16,7 +16,6 @@ Chaque lab est organisé dans un dossier dédié et comprend :
 
 - Un contexte et un objectif
 - Des étapes de mise en œuvre documentées
-- Des points de vigilance ou limites rencontrées
 
 ## 🧰 Domaines abordés
 
