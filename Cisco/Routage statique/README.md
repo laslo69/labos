@@ -20,7 +20,7 @@
 
 ### 🗺️  Topologie
 
-![topologie](./Illustration/topologie.JPG)
+![topologie](./Illustrations/topologie.JPG)
 
 ## 📜 Etapes mise en place de la solution
 
@@ -185,7 +185,7 @@ Test de ping depuis PC1 vers les destinations:
 - 8.8.8.8
 - cisco.com
 
-![ping_pc1](./Illustration/ping_pc1.JPG)
+![ping_pc1](./Illustrations/ping_pc1.JPG)
 
 Test de ping depuis PC2 vers les destinations:
 
@@ -195,7 +195,7 @@ Test de ping depuis PC2 vers les destinations:
 - 1.1.1.1
 - github.com
 
-![Ping_pc2](./Illustration/ping_pc2.JPG)
+![Ping_pc2](./Illustrations/ping_pc2.JPG)
 
 ## 🧠 Ce que j’ai appris
 
