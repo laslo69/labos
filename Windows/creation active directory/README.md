@@ -1,6 +1,4 @@
-# 🖧 Lab personnel - Administration Système & Réseau
-
-Bienvenue sur mon lab personnel dédié à l’administration système et réseau. Ce projet me permet d’explorer, tester et documenter différents services et configurations en environnement virtualisé.
+# 💻 Lab personnel - Administration Système
 
 ## 📌 Objectifs du lab
 
@@ -10,14 +8,12 @@ Mise en place d'un domaine active directory
 
 - **OS** : windows Server 2022
 - **Hyperviseur** : Proxmox
-- **Outils** : Aucun
-- **Topologie réseau** : Aucun
 
-## 🗂️ Module détaillés
+## 🗂️ Module détaillé
 
 |📁 Module|Description|
-|:-:|:-:|
-|ADDS|Gestion centralisée des identités et ressources.|
+|:-:|:-|
+|ADDS|Création d'un domaine active directory|
 
 ## 📸 Etapes mise en place de la solution
 
@@ -59,6 +55,9 @@ Une fois redémarrer, on peut se connecter en tant que administrateur du domaine
 ![connexion](./Illustration/crea_ad_8.JPG)
 
 ## 🧠 Ce que j’ai appris
+
+- Création d'une fôret et d'un domaine active directory
+- Comment mettre en place un serveur qui fait office de contrôleur de domaine
 
 ## Feedback
 
