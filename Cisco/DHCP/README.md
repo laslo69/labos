@@ -74,7 +74,3 @@ Avec un `ipconfig`, chaque PC à bien une adresse correspondant au DHCP
 
 - Mise en place d'un DHCP pour un lan unique
 - Vérification des baux attribué
-
-## Feedback
-
-Un avis, une question ou une remarque ? Laissez un commentaire !

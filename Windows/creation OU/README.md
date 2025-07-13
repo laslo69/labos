@@ -43,7 +43,3 @@ On retrouve les 3 utilisateurs créer
 
 - Création basique d'utilisateurs et groupes
 - Importance de créer des unitées d'organisation pour gérer plus efficacement les ressources
-
-## Feedback
-
-Un avis, une question ou une remarque ? Laissez un commentaire !

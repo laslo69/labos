@@ -60,7 +60,3 @@ Une fois redémarrer, on peut se connecter en tant que administrateur du domaine
 
 - Création d'une fôret et d'un domaine active directory
 - Comment mettre en place un serveur qui fait office de contrôleur de domaine
-
-## Feedback
-
-Un avis, une question ou une remarque ? Laissez un commentaire !

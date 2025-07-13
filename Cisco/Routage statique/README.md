@@ -201,7 +201,3 @@ Test de ping depuis PC2 vers les destinations:
 
 - Mise en place de routes statique pour permettre à des réseaux non connecté entre eux de pouvoir communiquer
 - Mise en place d'une route par défaut pour, dans le cas où une requète doit atteindre un réseaux inconnu, les requètes sont envoyer vers internet
-
-## Feedback
-
-Un avis, une question ou une remarque ? Laissez un commentaire !
