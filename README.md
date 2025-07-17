@@ -1,9 +1,5 @@
 # 🧪 Labs IT – Systèmes, Réseaux
 
-Bienvenue sur ce dépôt GitHub regroupant mes différents **labs techniques** autour des domaines clés de l'infrastructure IT : **systèmes**, **réseaux**.
-
-Au fil du temps, d’autres thématiques pourront être ajoutées en fonction de mes apprentissages et expérimentations.
-
 ## 🎯 Objectif
 
 Ce dépôt a pour vocation de centraliser des **labs pratiques**, conçus pour :
@@ -30,3 +26,7 @@ N’hésitez pas à me faire part de vos **retours**, **remarques** ou **suggest
 Cela m’aidera à faire évoluer le contenu et à corriger d’éventuelles erreurs.
 
 Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
+
+## Liste des labs
+
+[#Lab1] : [[./Windows/creation active directory/README.md]]
