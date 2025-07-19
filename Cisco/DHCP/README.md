@@ -2,7 +2,7 @@
 
 ## 📌 Objectifs du lab
 
-Mise en place d'un DHCP sur du matériel Cisco pour un seul LAN
+Mise en place d'un DHCP sans options sur du matériel Cisco pour un seul LAN
 
 ## 🛠️ Environnement technique
 

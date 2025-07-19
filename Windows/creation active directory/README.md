@@ -9,7 +9,7 @@ Mise en place d'un domaine active directory
 - **OS** : windows Server 2022
 - **Hyperviseur** : Proxmox
 
-## 🗂️ Module détaillé
+## 🗂️ Modules détaillé
 
 |📁 Module|Description|
 |:-:|:-|

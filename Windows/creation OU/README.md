@@ -12,7 +12,7 @@
 
 ## 🗂️ Module détaillé
 
-|📁 Module|Détail|
+|📁 Modules|Détail|
 |:-:|:-:|
 |Unitée d'organisation|Création d'unitées d'organisation|
 |Groupes et utilisateurs|Création d'utilisateurs et groupes|
