@@ -137,7 +137,7 @@ Mise en place des routes par défaut et ajout d'un NAT overload sur le routeur1 
 #### *Route par défaut Routeur 1*
 
 ```bash
-ip route 0.0.0.0 0.0.0.0 192.168.2.1
+ip route 0.0.0.0 0.0.0.0 10.0.0.1
 ```
 
 ***
@@ -153,7 +153,7 @@ ip route 0.0.0.0 0.0.0.0 192.168.2.5
 #### *Route par défaut Routeur 3*
 
 ```bash
-ip route 0.0.0.0 0.0.0.0 10.0.0.1
+ip route 0.0.0.0 0.0.0.0 192.168.2.1
 ```
 
 ***
@@ -167,10 +167,10 @@ ip nat source list 1 interface fastethernet 0/0 overload
 interface fastethernet 0/0
 ip nat outside
 exit
-interface fastethernet
+interface fastethernet 2/0
 ip nat inside
 exit
-interface fastethernet
+interface fastethernet 1/0
 ip nat inside
 exit
 ```
