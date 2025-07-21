@@ -10,7 +10,7 @@
 - **OS** : Windows Server 2022
 - **Hyperviseur** : Proxmox
 
-## 🗂️ Module détaillé
+## 🗂️ Modules détaillé
 
 |📁 Modules|Détail|
 |:-:|:-:|
@@ -22,8 +22,8 @@
 
 Dans la console `utilisateurs et ordinateurs active directory`, je crée 2 nouvelles unitée d'organisation:
 
-- Utilisateurs : Permettera de regrouper tout les utilisateurs créer
-- grp_utilisateurs : Permettera de regrouper tout les groupes créer
+- Utilisateurs : Permet de regrouper tout les utilisateurs créer
+- grp_utilisateurs : Permet de regrouper tout les groupes créer
 
 ![creation ou](./Illustrations/crea_ou_1.JPG)
 

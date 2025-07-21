@@ -2,7 +2,7 @@
 
 ## 📌 Objectifs du lab
 
-Mise en place d'un domaine active directory
+- Mise en place d'un domaine active directory
 
 ## 🛠️ Environnement technique
 
@@ -19,10 +19,10 @@ Mise en place d'un domaine active directory
 
 ## 📸 Etapes mise en place de la solution
 
-Le premier serveur qui servira de contrôleur de domaine est configuré:
+Le premier serveur qui servira de contrôleur de domaine doit être configuré:
 
-- Renommer
-- IP Statique
+- Nommer le serveur avec un nom plus commun
+- Appliquer une IP statique
 
 Pour l'instant, le serveur est en mode `WORKGROUP`
 
@@ -40,7 +40,7 @@ Définition d'un mot de passe DSRM
 
 ![definition mdp DSRM](./Illustrations/crea_ad_4.JPG)
 
-J'ai choisis de ne pas créer de délégation DNS pour pouvoir la gérer manuellement au fil du temps
+J'ai choisis de ne pas créer de délégation DNS pour pouvoir la gérer manuellement plus tard
 
 ![creation deleguation DNS](./Illustrations/crea_ad_5.JPG)
 
