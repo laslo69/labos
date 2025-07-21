@@ -32,3 +32,4 @@ Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
 |#Lab|Sujet|
 |:-:|:-:|
 |1|[Mise en place domaine active directory](./Windows/creation%20active%20directory/README.md)|
+|2|[Creation unités d'organisation](./Windows/creation%20OU/README.md)|
