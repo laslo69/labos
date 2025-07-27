@@ -78,7 +78,6 @@ wr
 #### *Adressage IP Routeur3*
 
 ```bash
-R3
 en
 conf t
 hostname Routeur3
@@ -106,7 +105,7 @@ Le réseaux 10.0.0.0/16 sera configuré plus tard par le biais de route par déf
 #### *Routage statique Routeur1*
 
 ```bash
-ip route 192.168.10.0 255.255.255.0 192.168.2.5
+ip route 192.168.10.0 255.255.255.0 192.168.2.6
 ip route 192.168.20.0 255.255.255.0 192.168.2.2
 ```
 
@@ -173,9 +172,13 @@ exit
 interface fastethernet 1/0
 ip nat inside
 exit
+end
+wr
 ```
 
 ### Test
+
+Une fois des adresses IP affectés aux ordinateurs:
 
 Test de ping depuis PC1 vers les destinations:
 
@@ -200,4 +203,4 @@ Test de ping depuis PC2 vers les destinations:
 ## 🧠 Ce que j’ai appris
 
 - Mise en place de routes statique pour permettre à des réseaux non connecté entre eux de pouvoir communiquer
-- Mise en place d'une route par défaut pour, dans le cas où une requète doit atteindre un réseaux inconnu, les requètes sont envoyer vers internet
+- Mise en place d'une route par défaut pour, dans le cas où une requète doit atteindre un réseau inconnu, les requètes sont routé vers l'extérieur du réseau.

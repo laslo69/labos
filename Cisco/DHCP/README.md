@@ -37,17 +37,13 @@ conf t
 hostname Router1
 interface gigabit 0/0
 ip address 192.168.10.1 255.255.255.0
-exit
+end
+wr
 ```
 
 ### Configuration DHCP
 
 Mise en place de la configuration DHCP pour le LAN10 :
-
-- Network 192.168.10.0/24
-- Passerelle 192.168.10.1
-- Dns 8.8.8.8
-- exclusion de la plage d'adresse de 192.168.10.1 à 192.168.10.20
 
 ```bash
 ip dhcp pool LAN10
