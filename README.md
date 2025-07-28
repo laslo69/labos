@@ -33,3 +33,5 @@ Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
 |:-:|:-:|
 |1|[Windows - Mise en place domaine active directory](./Windows/creation%20active%20directory/README.md)|
 |2|[Windows - Creation unités d'organisation](./Windows/creation%20OU/README.md)|
+|3|Cisco - Routage statique|
+|4|Cisco - DHCP sans options|
