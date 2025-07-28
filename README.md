@@ -35,3 +35,4 @@ Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
 |2|[Windows - Creation unités d'organisation](./Windows/creation%20OU/README.md)|
 |3|[Cisco - Routage statique](./Cisco/Routage%20statique/README.md)|
 |4|[Cisco - DHCP sans options](./Cisco/DHCP/README.md)|
+|5|[Windows - DHCP + Fail-over](./Windows/dhcp+failover/README.md)|
