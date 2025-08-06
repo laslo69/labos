@@ -1,4 +1,4 @@
-# 🖧 Lab personnel - Administration Système & Réseau
+# 🖧 Lab personnel - Administration Réseau
 
 ## 📌 Objectifs du lab
 
