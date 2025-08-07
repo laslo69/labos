@@ -121,7 +121,7 @@ no auto-summary
 network 10.0.0.0
 network 192.168.0.0
 network 192.168.0.4
-redistribute static
+default-information originate
 passive-interface fastethernet 0
 exit
 ip route 0.0.0.0 0.0.0.0 10.0.0.1
