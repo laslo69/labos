@@ -34,9 +34,9 @@ Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
 
 |#Lab|Sujet|
 |:-:|:-:|
-|1|[Windows - Mise en place domaine active directory](./Windows/creation%20active%20directory/README.md)|
-|2|[Windows - Creation unités d'organisation](./Windows/creation%20OU/README.md)|
+|1|[Windows GUI - Mise en place domaine active directory](./Windows/creation%20active%20directory/README.md)|
+|2|[Windows GUI - Creation unités d'organisation](./Windows/creation%20OU/README.md)|
 |3|[Cisco - Routage statique](./Cisco/Routage%20statique/README.md)|
 |4|[Cisco - DHCP sans options](./Cisco/DHCP/README.md)|
-|5|[Windows - DHCP + Fail-over](./Windows/dhcp+failover/README.md)|
+|5|[Windows GUI - DHCP + Fail-over](./Windows/dhcp+failover/README.md)|
 |6|[Cisco routage RIP Version 2](./Cisco/Routage%20RIP%20v2/README.md)|
