@@ -90,3 +90,5 @@ Une fois le serveur redémarré, on peut voir que je peux me connecter au domain
 ![gui_connexion_domaine](./Ilustrations/3_gui.png)
 
 ## 🧠 Ce que j’ai appris
+
+L'importance de comprendre le fonctionnement commandes nécessaires, pour la configuration IP d'un serveur ainsi que, l'installation du rôle ADDS et sa configuration
