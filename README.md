@@ -40,3 +40,4 @@ Merci d’avoir pris le temps de consulter ce dépôt ! 🚀
 |4|[Cisco - DHCP sans options](./Cisco/DHCP/README.md)|
 |5|[Windows GUI - DHCP + Fail-over](./Windows/dhcp+failover/README.md)|
 |6|[Cisco routage RIP Version 2](./Cisco/Routage%20RIP%20v2/README.md)|
+|7|[Windows serveur, créer partage SMB en GUI](./Windows%20GUI/Partage%20SMB%20GUI/README.md)|
