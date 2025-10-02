@@ -2,7 +2,7 @@
 
 ## 📌 Objectifs du lab
 
-Mise en place d'un routage dynamique RIP avec passerelle par défaut, redistribuer par le protocole RIP.
+Mise en place d'un routage dynamique RIP version 2 avec passerelle par défaut, redistribuer par le protocole RIP.
 
 ## 🛠️ Environnement technique
 

@@ -2,9 +2,7 @@
 
 ## 📌 Objectifs du lab
 
-L'objectif de ce lab, est la mise en place d'un domaine active directory à partir d'un windows server en mode core, en powershell pour pousser la compréhension de: Qu'est ce qui se passe d'un point de vue système, de manière approfondi, lorsque la tâche est faite de manière graphique
-
-L'intéret est de transposer l'interaction graphique vers une interaction texte.
+L'objectif de ce lab, est la mise en place d'un domaine active directory à partir d'un windows server en mode core, pour pousser la compréhension de : Qu'est ce qui se passe d'un point de vue système, de manière approfondi, lorsque la tâche est faite de manière graphique
 
 2 windows serveur seront utilisé:
 
@@ -20,6 +18,7 @@ L'intéret est de transposer l'interaction graphique vers une interaction texte.
 
 |📁 Module|Description|
 |:-:|:-|
+|mot de passe et Nommage|Renommage du serveur, instauration d'un mot de passe admin|
 |Adressage IP|Adressage IP et configuration DNS|
 |Installation|Installation de rôle ADDS|
 |Création|Création d'une fôret et d'un domaine active directory|
@@ -27,17 +26,21 @@ L'intéret est de transposer l'interaction graphique vers une interaction texte.
 
 ## 📸 Etapes mise en place de la solution
 
+### mot de passe et Nommage
+
 Une fois le windows serveur core installé, il est nécessaire de modifier le mot de passe administrateur qui à ce moment la est vide
 
 Lors de la promotion du serveur en contrôleur de domaine, le compte administrateur ne peut pas être vide sous quoi, un message d'erreur donnera un avertissement
 
 ![cli_password](./Ilustrations/1_cli.png)
 
-Une bonne pratique, qui reste basique, sera de renommer le serveur avec un nomm communicatif sur son rôle
+Une bonne pratique, qui reste basique, sera de renommer le serveur avec un nom plus communicatif sur son rôle
 
 Je le renomme `DC1`, vu que ce sera mon contrôleur de domaine principal
 
 ![cli_renommage](./Ilustrations/2_cli.png)
+
+### Adressage IP
 
 Dans un premier temps, avant de faire l'adressage IP, il est nécessaire de savoir sur quel interface on veut agir
 
@@ -55,6 +58,8 @@ Suivi de la définition du ou des serveurs DNS
 
 ![cli_config_dns](./Ilustrations/5_cli.png)
 
+### Installation
+
 Avant d'installer le rôle ADDS, je vais chercher le nom du rôle à installer avec la commande
 
 ```powershell
@@ -62,6 +67,8 @@ get-windowsfeatures -name *ad*
 ```
 
 ![cli_cherche_role](./Ilustrations/6_cli.png)
+
+### Création Forêt
 
 Maintenant, je sais que je dois installer le rôle `ad-domain-services`.
 
@@ -77,13 +84,13 @@ Sur le deuxième serveur, on renomme le serveur avec un nom plus parlant ainsi q
 
 ![gui_config](./Ilustrations/1_gui.png)
 
-J'ai choisis ici, de joindre ce contrôleur de domaine, au domaine en powershell pour la simple raison de :
-
-> Si je sais crée une forêt et un domaine en powershell, pourquoi devrais-je éviter de savoir comment joindre une machine au domaine?
+J'ai choisis ici, de joindre ce contrôleur de domaine, au domaine en powershell
 
 Des logs seront demandés ( qui sont bien évidemment, les logs de l'administrateur du domaine )
 
 ![gui_joindre_domaine](./Ilustrations/2_gui.png)
+
+### Contrôle
 
 Une fois le serveur redémarré, on peut voir que je peux me connecter au domaine en tant que, administrateur du domaine
 
