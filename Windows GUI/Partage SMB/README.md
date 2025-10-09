@@ -1,6 +1,6 @@
-# 💻 Lab personnel - Administration Système
+# 💻 TP personnel - Administration Système
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 Création et déploiement de partage SMB au sein de l'active directory via GPO
 

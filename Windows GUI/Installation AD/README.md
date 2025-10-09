@@ -1,6 +1,6 @@
-# 💻 Lab personnel - Administration Système
+# 💻 TP personnel - Administration Système
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 - Mise en place d'un domaine active directory
 

@@ -1,6 +1,6 @@
-# 💻 Lab personnel - Administration Système & Réseau
+# 💻 TP personnel - Administration Système & Réseau
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 Création des unitées d'organisation pour segmenter par type de ressource et dans le futur, faciliter la gestion et l'application de GPO
 

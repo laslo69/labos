@@ -1,6 +1,6 @@
-# 🖧 💻 Lab personnel - Administration Système
+# 💻 TP personnel - Administration Système
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 - Mise en place d'un DHCP pour un lan unique sans options
 - Création de réservation DHCP

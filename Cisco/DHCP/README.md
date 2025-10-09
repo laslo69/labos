@@ -1,6 +1,6 @@
-# 🖧 Lab personnel - Administration Réseau
+# 🖧 TP - Administration Réseau
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 Mise en place d'un DHCP sans options sur du matériel Cisco pour un seul LAN
 

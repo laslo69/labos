@@ -1,6 +1,6 @@
-# 🖧 Lab personnel - Administration Réseau
+# 🖧 TP personnel - Administration Réseau
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 Mise en place du protocole VTP
 

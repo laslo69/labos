@@ -1,6 +1,6 @@
-# 💻 Lab personnel - Administration Système
+# 💻 TP personnel - Administration Système
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 L'objectif de ce lab, est la mise en place d'un domaine active directory à partir d'un windows server en mode core, pour pousser la compréhension de : Qu'est ce qui se passe d'un point de vue système, de manière approfondi, lorsque la tâche est faite de manière graphique
 

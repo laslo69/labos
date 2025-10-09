@@ -1,6 +1,6 @@
-# 🖧 Lab personnel - Administration Réseau
+# 🖧 TP personnel - Administration Réseau
 
-## 📌 Objectifs du lab
+## 📌 Objectifs du TP
 
 Mise en place d'un routage dynamique RIP version 2 avec passerelle par défaut, redistribuer par le protocole RIP.
 
